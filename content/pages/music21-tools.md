@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: music21 Tools
 uid: 7530842c-e0a0-043c-107f-4e25ef92a9fc
 ---

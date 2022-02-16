@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Syllabus
+parent_type: CourseSection
 parent_uid: 63c5cb0c-f90f-7199-0522-1a99178e67cf
 title: More on Grading Scale and Course Policies
 uid: 3807e520-fab5-0938-3a1e-d3ce2fb8a836
