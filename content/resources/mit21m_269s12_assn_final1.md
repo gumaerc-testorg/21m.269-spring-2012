@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: bee8ef0a-23b6-359b-9791-d3c3f59c2018
 resourcetype: Document
 title: Feature-Based Analysis of Haydn String Quartets
 uid: ccf71b0b-4afd-d057-1b5d-c5d1ef0a9cda

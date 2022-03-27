@@ -10,6 +10,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: music21 Tools
 parent_type: CourseSection
+parent_uid: 7530842c-e0a0-043c-107f-4e25ef92a9fc
 resourcetype: Document
 title: Interoperable Digital Musicology Research via music21 Web Applications
 uid: 2cc46765-3d77-4343-0a8a-5010c9b0eab8

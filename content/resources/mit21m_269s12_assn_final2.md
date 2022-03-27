@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: bee8ef0a-23b6-359b-9791-d3c3f59c2018
 resourcetype: Document
 title: Describing Musical Contour with Tonality, Voicing, and  Dissonance Levels
 uid: 16d42763-af9d-5e18-b9a3-1351a7c00a79

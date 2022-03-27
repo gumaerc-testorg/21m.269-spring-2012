@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: bee8ef0a-23b6-359b-9791-d3c3f59c2018
 resourcetype: Document
 title: Using Tarsos and music21 to Analyze Presidential Speech Patterns
 uid: 22c99486-d9f6-1f87-c4c9-69221299ee14
