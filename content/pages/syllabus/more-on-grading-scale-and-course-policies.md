@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides details on course policies and the grading scale.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Syllabus

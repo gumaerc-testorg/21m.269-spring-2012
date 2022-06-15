@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the course assignments and examples of student
+  work.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -17,12 +19,12 @@ Assignment 2: Problem Set 1
 
 _Topics_: thinking about music with an object-oriented mindset; introduction to Python
 
-[Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit21m_269s12_pset1)  
-Supporting file for problem 4: [instruments.py]({{< baseurl >}}/resources/instrument)
+{{% resource_link a75b91d1-be1a-c9b7-f76f-1645b108d525 "Problem Set 1 (PDF)" %}}  
+Supporting file for problem 4: {{% resource_link 76471f42-32a5-0330-a90a-248e264d00e9 "instruments.py" %}}
 
 Additional Python resources:
 
-*   Little or no programming experience? See [_6.189 A Gentle Introduction to Programming Using Python_](/courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/)
+*   Little or no programming experience? See [_6.189 A Gentle Introduction to Programming Using Python_](/courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011)
 *   Some programming experience in other languages? See the [Python Tutorial](/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/pages/python-tutorial) in _6.01SC Introduction to Electrical Engineering and Computer Science I_
 
 Assignment 3: Problem Set 2
@@ -30,22 +32,22 @@ Assignment 3: Problem Set 2
 
 _Topics_: developing digital notation for unusual repertories; similarity and search
 
-[Problem Set 2 (PDF)]({{< baseurl >}}/resources/mit21m_269s12_pset2)
+{{% resource_link 8540a047-52af-281d-a799-24f8a2f197a9 "Problem Set 2 (PDF)" %}}
 
 Assignment 4: Ossia Paper
 -------------------------
 
 _Topic_: a 3–5 page research paper summarizing a current musicological database project
 
-[Paper description (PDF)]({{< baseurl >}}/resources/mit21m_269s12_paper)
+{{% resource_link fc642371-7b2f-cd43-00c5-364570de1f58 "Paper description (PDF)" %}}
 
 Final Paper
 -----------
 
 The following sample final papers are presented courtesy of the student authors and used with permission.
 
-Wong, Lawson. ["Feature-Based Analysis of Haydn String Quartets" (PDF)]({{< baseurl >}}/resources/mit21m_269s12_assn_final1)
+Wong, Lawson. {{% resource_link ccf71b0b-4afd-d057-1b5d-c5d1ef0a9cda "\"Feature-Based Analysis of Haydn String Quartets\" (PDF)" %}}
 
-Anonymous student. ["Describing Musical Contour with Tonality, Voicing, and Dissonance Levels" (PDF)]({{< baseurl >}}/resources/mit21m_269s12_assn_final2)
+Anonymous student. {{% resource_link 16d42763-af9d-5e18-b9a3-1351a7c00a79 "\"Describing Musical Contour with Tonality, Voicing, and Dissonance Levels\" (PDF)" %}}
 
-Anonymous student. ["Using Tarsos and music21 to Analyze Presidential Speech Patterns" (PDF)]({{< baseurl >}}/resources/mit21m_269s12_assn_final3)
+Anonymous student. {{% resource_link 22c99486-d9f6-1f87-c4c9-69221299ee14 "\"Using Tarsos and music21 to Analyze Presidential Speech Patterns\" (PDF)" %}}
