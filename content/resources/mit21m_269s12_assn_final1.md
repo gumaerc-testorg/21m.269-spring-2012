@@ -6,6 +6,7 @@ file: /courses/21m-269-studies-in-western-music-history-quantitative-and-computa
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Feature-Based Analysis of Haydn String Quartets
 uid: ccf71b0b-4afd-d057-1b5d-c5d1ef0a9cda
 ---
 Example of student work for an assignment to summarize a current musicological database project.
-

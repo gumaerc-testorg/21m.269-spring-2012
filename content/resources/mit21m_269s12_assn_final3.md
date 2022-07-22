@@ -6,6 +6,7 @@ file: /courses/21m-269-studies-in-western-music-history-quantitative-and-computa
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Using Tarsos and music21 to Analyze Presidential Speech Patterns
 uid: 22c99486-d9f6-1f87-c4c9-69221299ee14
 ---
 Example of student work for an assignment to summarize a current musicological database project.
-
