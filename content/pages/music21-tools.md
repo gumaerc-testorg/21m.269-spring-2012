@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides information on music21, a set of open source music
+  informatics tools used for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: music21 Tools
 uid: 7530842c-e0a0-043c-107f-4e25ef92a9fc
 ---
@@ -22,7 +26,7 @@ NB: Windows users will want to install [Python](http://www.python.org/) first.
 More About music21
 ------------------
 
-Conference paper on music21: Cuthbert, Michael Scott, Beth Hadley, Lars Johnson and Christopher Reyes. "[Interoperable Digital Musicology Research via music21 Web Applications. (PDF)]({{< baseurl >}}/resources/mit21m_269s12_music21soa)" _Conference on Service-oriented Architectures (SOAs) for the Humanities: Solutions and Impacts_. Hamburg, Germany, July 2012.
+Conference paper on music21: Cuthbert, Michael Scott, Beth Hadley, Lars Johnson and Christopher Reyes. "{{% resource_link 2cc46765-3d77-4343-0a8a-5010c9b0eab8 "Interoperable Digital Musicology Research via music21 Web Applications. (PDF)" %}}" _Conference on Service-oriented Architectures (SOAs) for the Humanities: Solutions and Impacts_. Hamburg, Germany, July 2012.
 
 Chang, Derek. "[$500,000 Grant for Music Research at MIT: Michael Scott Cuthbert uses Computational Methods to Study Western Music](http://tech.mit.edu/V132/N6/cuthbert.html)." _The Tech (MIT)_, February 24, 2012.
 
