@@ -107,9 +107,9 @@ Actually, one **final** requirement—it's great music and great new approaches,
 Required Texts
 --------------
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262582780) Huron, David. [_Sweet Anticipation: Music and the Pyschology of Expectation_](https://mitpress.mit.edu/9780262582780). MIT Press, 2006. ISBN: 9780262582780. \[Preview with [Google Books](http://books.google.com/books?id=uyI_Cb8olkMC&pg=PAfrontcover#v=onepage)\]
+{{% resource_link "282f4807-62a8-4b53-a34b-cea95bfdc9ba" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Huron, David. {{% resource_link "282f4807-62a8-4b53-a34b-cea95bfdc9ba" "_Sweet Anticipation: Music and the Pyschology of Expectation_" %}}. MIT Press, 2006. ISBN: 9780262582780. \[Preview with {{% resource_link "4324af8b-1b5f-4cfa-b6b2-bfcec0015f42" "Google Books" %}}\]
 
-Tymoczko, Dmitri. _A Geometry of Music: Harmony and Counterpoint in the Extended Common Practice_. Oxford University Press, 2011. ISBN: 9780199887507. \[Preview with [Google Books](http://books.google.com/books?id=ODSt58Yk2YYC&pg=PAfrontcover#v=onepage)\]
+Tymoczko, Dmitri. _A Geometry of Music: Harmony and Counterpoint in the Extended Common Practice_. Oxford University Press, 2011. ISBN: 9780199887507. \[Preview with {{% resource_link "ea525bfc-fae9-46fd-b422-5232502ac72e" "Google Books" %}}\]
 
 Calendar
 --------
