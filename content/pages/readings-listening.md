@@ -9,9 +9,9 @@ title: Readings & Listening
 uid: 64897f6f-e8c9-c5ad-31c1-8b04a2b18491
 ---
 
-{{% resource_link "282f4807-62a8-4b53-a34b-cea95bfdc9ba" "![Buy at MIT Press](/images/mp_logo.gif)" %}} \[Huron\] = Huron, David. {{% resource_link "282f4807-62a8-4b53-a34b-cea95bfdc9ba" "_Sweet Anticipation: Music and the Pyschology of Expectation_" %}}. MIT Press, 2006. ISBN: 9780262582780. \[Preview with {{% resource_link "4324af8b-1b5f-4cfa-b6b2-bfcec0015f42" "Google Books" %}}\]
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262582780) \[Huron\] = Huron, David. [_Sweet Anticipation: Music and the Pyschology of Expectation_](https://mitpress.mit.edu/9780262582780). MIT Press, 2006. ISBN: 9780262582780. \[Preview with [Google Books](http://books.google.com/books?id=uyI_Cb8olkMC&pg=PAfrontcover#v=onepage)\]
 
-\[Tymoczko\] = Tymoczko, Dmitri. _A Geometry of Music: Harmony and Counterpoint in the Extended Common Practice_. Oxford University Press, 2011. ISBN: 9780199887507. \[Preview with {{% resource_link "ea525bfc-fae9-46fd-b422-5232502ac72e" "Google Books" %}}\]
+\[Tymoczko\] = Tymoczko, Dmitri. _A Geometry of Music: Harmony and Counterpoint in the Extended Common Practice_. Oxford University Press, 2011. ISBN: 9780199887507. \[Preview with [Google Books](http://books.google.com/books?id=ODSt58Yk2YYC&pg=PAfrontcover#v=onepage)\]
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -53,7 +53,7 @@ Introduction to the study of music history as commonly practiced
 {{< tdopen >}}
 
 
-Cook, Nicholas. "Computational and Comparative Musicology." In _Empirical Musicology: Aims, Methods, Prospects_. Edited by Eric Clarke and Nicholas Cook. Oxford University Press, 2004. ISBN: 9780195167504. \[Preview with {{% resource_link "7a09d3cb-6e6a-427e-a38e-ed2a52a50867" "Google Books" %}}\]
+Cook, Nicholas. "Computational and Comparative Musicology." In _Empirical Musicology: Aims, Methods, Prospects_. Edited by Eric Clarke and Nicholas Cook. Oxford University Press, 2004. ISBN: 9780195167504. \[Preview with [Google Books](http://books.google.com/books?id=jJg-IyOsvnYC&pg=PA103#v=onepage)\]
 
 ———. "Towards a Complete Musicologist." _Proceedings of the International Society for Music Information Retrieval._ Queen Mary, London, 2005.
 
@@ -181,7 +181,7 @@ Searching repertories
 {{< tdopen >}}
 
 
-Uitdenbogerd, Alexandra, and Justin Zobel. "{{% resource_link "00624902-ed93-43c5-a5d9-b6a14e8d6e34" "Matching Techniques for Large Music Databases" %}}." _Proceedings of ACM Multimedia 99._ 1999, pp. 57–66.
+Uitdenbogerd, Alexandra, and Justin Zobel. "[Matching Techniques for Large Music Databases](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.18.7129)." _Proceedings of ACM Multimedia 99._ 1999, pp. 57–66.
 
 "Statistical Properties of Music." Chapter 5 in \[Huron\]. pp. 73–89.
 {{< tdclose >}}
@@ -200,9 +200,9 @@ Existing projects in quantitative and computational musicology I: rock corpora
 {{< tdopen >}}
 
 
-Clercq, Trevor de, and David Temperley. "{{% resource_link "8ff8fb87-550e-4b8b-8250-5a91c87a3016" "A Corpus Analysis of Rock Harmony" %}}." _Popular Music_ 30, no. 1 (2011): 47–70.
+Clercq, Trevor de, and David Temperley. "[A Corpus Analysis of Rock Harmony](http://dx.doi.org//10.1017/S026114301000067X)." _Popular Music_ 30, no. 1 (2011): 47–70.
 
-{{% resource_link "0bf1540c-8acc-4e50-8ccf-eb4690ccf9f1" "The CMME Project" %}} (computerized mensural music editing).
+[The CMME Project](http://www.cmme.org/about) (computerized mensural music editing).
 
 
 {{< tdclose >}}
@@ -306,11 +306,11 @@ Statistical methods for analyzing musical repertories
 Bayesian mathematics of probability and expectation.
 {{< tdclose >}}
 {{< tdopen >}}
-Krumhansl, Carol. "A Key-finding Algorithm Based on Tonal Hierarchies." In _Cognitive Foundations of Musical Pitch._ Oxford University Press, 1990, pp. 77–110. ISBN: 9780195054750. \[Preview with {{% resource_link "fe1a26a0-f53e-426a-abdf-fc086003ae58" "Google Books" %}}\]
+Krumhansl, Carol. "A Key-finding Algorithm Based on Tonal Hierarchies." In _Cognitive Foundations of Musical Pitch._ Oxford University Press, 1990, pp. 77–110. ISBN: 9780195054750. \[Preview with [Google Books](http://books.google.com/books?id=aJDEVqyArr4C&pg=PA77#v=onepage)\]
 
 Cuthbert, Michael Scott. "Tipping the Iceberg: Missing Italian Polyphony from the Age of Schism." _Musica Disciplina_ 54 (2009): 39–74.
 
-{{% resource_link "e1d4936d-f0ca-4cbe-a066-3a5bcec2f9f4" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Temperley, David. "Probabilistic Foundations and Background." Chapter 2 in {{% resource_link "e1d4936d-f0ca-4cbe-a066-3a5bcec2f9f4" "_Music and Probability_" %}}. MIT Press, 2010, pp. 7–22. ISBN: 9780262515191. \[Preview at {{% resource_link "39d701d7-c562-4a2a-8b59-586b2f36a213" "MIT Press" %}}\]
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262515191) Temperley, David. "Probabilistic Foundations and Background." Chapter 2 in [_Music and Probability_](https://mitpress.mit.edu/9780262515191). MIT Press, 2010, pp. 7–22. ISBN: 9780262515191. \[Preview at [MIT Press](http://wdn.ipublishcentral.net/mit/viewinside/242493558691/pageno/20)\]
 
 
 {{< tdclose >}}
@@ -361,13 +361,13 @@ Feature Extraction and Machine Learning. kNN, Tree-Building (overfitting), Major
 
 ### Optional Readings
 
-Cilibrasi, Rudi, Paul Vitányi, et al. "{{% resource_link "1354f06f-d7d9-4c2f-a3c7-46c42e7df57e" "Algorithmic Clustering of Music Based on String Compression" %}}." _Computer Music Journal_ 28, no. 4 (2004): 49–67.
+Cilibrasi, Rudi, Paul Vitányi, et al. "[Algorithmic Clustering of Music Based on String Compression](http://citeseerx.ist.psu.edu/viewdoc/summary;jsessionid=730C4368A2114529D1139D6F57DDED86?doi=10.1.1.219.497)." _Computer Music Journal_ 28, no. 4 (2004): 49–67.
 
-McKay, Cory. Chapters on jSymbolic in {{% resource_link "06b120c6-cfeb-4b29-8d8c-8c589aa854da" "_Automatic Music Classification with jMIR_. (PDF - 5.6MB)" %}}
+McKay, Cory. Chapters on jSymbolic in [_Automatic Music Classification with jMIR_. (PDF - 5.6MB)](http://jmir.sourceforge.net/publications/PhD_Dissertation_2010.pdf)
 
-Cuthbert, Michael Scott, Christopher Ariza, and Lisa Friedland. {{% resource_link "2ec56610-17d8-4d84-b2ae-0f322997ef76" "\"Feature Extraction and Machine Learning on Symbolic Music using the music21 Toolkit.\" (PDF)" %}} _Proceedings of the International Symposium on Music Information Retrieval._ 2011, pp. 387–92.
+Cuthbert, Michael Scott, Christopher Ariza, and Lisa Friedland. ["Feature Extraction and Machine Learning on Symbolic Music using the music21 Toolkit." (PDF)](http://ismir2011.ismir.net/papers/PS3-6.pdf) _Proceedings of the International Symposium on Music Information Retrieval._ 2011, pp. 387–92.
 
-Cuthbert, Michael Scott, Christopher Ariza, et al. {{% resource_link "d2130466-8d56-43b9-b512-30274c761efd" "\"Hidden Beyond MIDI's Reach: Feature Extraction and Machine Learning with Rich Symbolic Formats in music21.\" (PDF)" %}} _Proceedings of the Neural Information Processing Systems Conference_. Music and Machine Learning, Workshop 4, 2011.
+Cuthbert, Michael Scott, Christopher Ariza, et al. ["Hidden Beyond MIDI's Reach: Feature Extraction and Machine Learning with Rich Symbolic Formats in music21." (PDF)](http://web.mit.edu/music21/papers/Cuthbert_Ariza_Cabal-Ugaz_Hadley_Parikh-Hidden-NIPS2011.pdf) _Proceedings of the Neural Information Processing Systems Conference_. Music and Machine Learning, Workshop 4, 2011.
 
 
 {{< tdclose >}}
@@ -408,7 +408,7 @@ MITx: thoughts and designs
 
 {{< tdclose >}}
 {{< tdopen >}}
-music21 blog post on automated grading of common-practice music theory assignments: "{{% resource_link "61011c1b-63de-41dd-a528-15346539121c" "music21 Theory Analyzer" %}}." Feb 11, 2012.
+music21 blog post on automated grading of common-practice music theory assignments: "[music21 Theory Analyzer](http://music21-mit.blogspot.com/2012/02/music21-theory-analyzer.html)." Feb 11, 2012.
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -432,7 +432,7 @@ For this class, prepare a reduction of theme from Mozart's _Piano Sonata No. 11 
 
 {{< tdclose >}}
 {{< tdopen >}}
-Kirlin, Phillip, and David Jensen. {{% resource_link "1d50ea0c-7955-4799-bd3a-0ac9d0f8a276" "\"Probabilistic Modeling of Hierarchical Music Analysis.\" (PDF)" %}} In _Proceeding of the International Symposium in Music Information Retrieval_. 2011.
+Kirlin, Phillip, and David Jensen. ["Probabilistic Modeling of Hierarchical Music Analysis." (PDF)](http://ismir2011.ismir.net/papers/PS3-7.pdf) In _Proceeding of the International Symposium in Music Information Retrieval_. 2011.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -453,7 +453,7 @@ Chapters 3–4 and especially Chapter 10 in \[Huron\].
 
 ### Optional Reading
 
-{{% resource_link "7f99d41d-c38f-491e-bb62-fa13ed982974" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Temperley, David. "Melody I: The Rhythm Model." Chapter 3 in {{% resource_link "7f99d41d-c38f-491e-bb62-fa13ed982974" "_Music and Probability_" %}}. MIT Press, 2006. ISBN: 9780262201667. (Read ch. 2 if Bayesian probability is still difficult). \[Preview at {{% resource_link "f0a4a3c8-a060-4224-8e27-e6f371efe78b" "MIT Press" %}}\]
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262201667) Temperley, David. "Melody I: The Rhythm Model." Chapter 3 in [_Music and Probability_](https://mitpress.mit.edu/9780262201667). MIT Press, 2006. ISBN: 9780262201667. (Read ch. 2 if Bayesian probability is still difficult). \[Preview at [MIT Press](http://wdn.ipublishcentral.net/mit/viewinside/242493558691/pageno/36)\]
 
 
 {{< tdclose >}}
@@ -470,7 +470,7 @@ Non-western music and digital humanities: guest lecture by Joren Six
  
 {{< tdclose >}}
 {{< tdopen >}}
-Six, Joren, and Olmo Cornelis. {{% resource_link "f3cc50df-3c68-46f5-9d6a-424043bfb114" "\"Tarsos—A Platform to Explore Pitch Scales in Non-Western and Western Music.\" (PDF)" %}} _Proceedings of the International Society for Music Information Retrieval_. 2011, pp. 169–74.
+Six, Joren, and Olmo Cornelis. ["Tarsos—A Platform to Explore Pitch Scales in Non-Western and Western Music." (PDF)](http://ismir2011.ismir.net/papers/OS2-4.pdf) _Proceedings of the International Society for Music Information Retrieval_. 2011, pp. 169–74.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -487,7 +487,7 @@ Xenakis sieve applications using music21
 {{< tdopen >}}
 
 
-Ariza, Christopher, and Michael Scott Cuthbert. {{% resource_link "14bbae0c-78f6-4e28-8552-2f8e8520fbed" "\"Analytical and Compositional Applications of a Network-Based Scale Model in music21.\" (PDF - 5.5MB)" %}} _Proceedings of the International Computer Music Conference_. 2011, pp. 701–8.
+Ariza, Christopher, and Michael Scott Cuthbert. ["Analytical and Compositional Applications of a Network-Based Scale Model in music21." (PDF - 5.5MB)](http://www.flexatone.org/static/docs/scaleNetwork.pdf) _Proceedings of the International Computer Music Conference_. 2011, pp. 701–8.
 
 Ariza, Christopher. "Designing and Deploying Non-Octave-Repeating Scales with the Xenakis Sieve." In _Exploring Xenakis_. Edited by Sharon Kanach. Pendragon Press, 2012 forthcoming. 
 
@@ -512,7 +512,7 @@ Grab Bag: Peachnote; isolating flaws in computational music studies; first stude
  
 {{< tdclose >}}
 {{< tdopen >}}
-Viro, Vladimir. {{% resource_link "bbba8864-9026-4113-b5a1-65776dc6322b" "\"Peachnote: Music Score Search and Analysis Platform.\" (PDF)" %}} _Proceedings of the International Computer Music Conference_. 2012, pp. 359–62.
+Viro, Vladimir. ["Peachnote: Music Score Search and Analysis Platform." (PDF)](http://ismir2011.ismir.net/papers/PS3-1.pdf) _Proceedings of the International Computer Music Conference_. 2012, pp. 359–62.
 {{< tdclose >}}
 
 {{< trclose >}}
