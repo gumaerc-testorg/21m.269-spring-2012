@@ -2,7 +2,7 @@
 content_type: resource
 description: Example of student work for an assignment to summarize a current musicological
   database project.
-file: /ol-ocw-studio-app/courses/21m-269-studies-in-western-music-history-quantitative-and-computational-approaches-to-music-history-spring-2012/22c99486d9f61f87c4c969221299ee14_MIT21M_269S12_assn_final3.pdf
+file: /courses/21m-269-studies-in-western-music-history-quantitative-and-computational-approaches-to-music-history-spring-2012/22c99486d9f61f87c4c969221299ee14_MIT21M_269S12_assn_final3.pdf
 file_size: 593126
 file_type: application/pdf
 learning_resource_types:
