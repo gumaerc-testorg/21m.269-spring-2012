@@ -174,7 +174,7 @@ Music perception: guest lecture by Dr. Peter Cariani
 {{< tdclose >}}{{< tdopen >}}
 Cognitive and evolutionary foundations of music and experimental methods of testing them. Possible additional topics: advanced acoustics and waveform analysis, reading and misreading MRI data.
 {{< tdclose >}}{{< tdopen >}}
-More on this topic: Dr. Cariani's [*HST.725 Music Perception and Cognition*](https://ocw-studio.odl.mit.edu/courses/hst-725-music-perception-and-cognition-spring-2009).
+More on this topic: Dr. Cariani's [*HST.725 Music Perception and Cognition*](https://ocw.mit.edu/courses/hst-725-music-perception-and-cognition-spring-2009/).
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
 {{< tdclose >}}{{< tdopen >}}

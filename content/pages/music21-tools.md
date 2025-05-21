@@ -26,6 +26,6 @@ NB: Windows users will want to install [Python](http://www.python.org/) first.
 
 Conference paper on music21: Cuthbert, Michael Scott, Beth Hadley, Lars Johnson and Christopher Reyes. "{{% resource_link "2cc46765-3d77-4343-0a8a-5010c9b0eab8" "Interoperable Digital Musicology Research via music21 Web Applications. (PDF)" %}}" *Conference on Service-oriented Architectures (SOAs) for the Humanities: Solutions and Impacts*. Hamburg, Germany, July 2012.
 
-Chang, Derek. "[$500,000 Grant for Music Research at MIT: Michael Scott Cuthbert uses Computational Methods to Study Western Music](http://tech.mit.edu/V132/N6/cuthbert.html)." *The Tech (MIT)*, February 24, 2012.
+Chang, Derek. "[$500,000 Grant for Music Research at MIT: Michael Scott Cuthbert uses Computational Methods to Study Western Music](https://thetech.com/2012/02/24/cuthbert-v132-n6)." *The Tech (MIT)*, February 24, 2012.
 
 Neyfakh, Leon. "[When Computers Listen to Music, What do They Hear?](https://www.bostonglobe.com/ideas/2012/07/07/when-computers-listen-music-what-they-hear/hzdqdfgsIgEPiWPRe66U8J/story.html)" Boston Globe, July 08, 2012. \[Subtitle: "A New Generation of Scholars is Turning Music into Data—and Uncovering Truths Beyond Human Ears"\]
